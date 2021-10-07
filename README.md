@@ -1,8 +1,8 @@
 ### Hey y'all!
+I'm a *Senior Customer Success Manager* at **GitHub**, based in 🌧️ Seattle 🌦️ and obsessed with 📢 languages, 🐕 dogs, and 🎮 the Legend of Zelda. After getting my start in the gaming industry at Nintendo and then Xbox, I hopped on the DevOps train and spent several years helping folks learn and build things with Chef and Jenkins.
+
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633457724879.png" alt="jodyOctocat" width="50%"/>
-
-#### I'm a *Customer Success Manager* at **GitHub**, based in 🌧️ Seattle 🌦️ and obsessed with 📢 languages, 🐕 dogs, and 🎮 the Legend of Zelda.
-
+♀️ ♂️ My pronouns are: she/they
 <!--
 **joderita/joderita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
