@@ -1,6 +1,6 @@
 ### Hey y'all!
 #### I'm a *Customer Success Manager* at **GitHub**, based in 🌧️ Seattle 🌦️, and obsessed with 📢 languages, 🐕 dogs, and 🎮 the Legend of Zelda.
-![](https://octocat-generator-assets.githubusercontent.com/my-octocat-1633457724879.png)
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633457724879.png" alt="jodyOctocat" width="50%"/>
 
 <!--
 **joderita/joderita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
