@@ -1,5 +1,6 @@
 ### Hey y'all!
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633457724879.png" alt="jodyOctocat" width="50%"/>
+
 #### I'm a *Customer Success Manager* at **GitHub**, based in 🌧️ Seattle 🌦️, and obsessed with 📢 languages, 🐕 dogs, and 🎮 the Legend of Zelda.
 
 <!--
